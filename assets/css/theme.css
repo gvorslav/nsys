@@ -9502,6 +9502,9 @@ textarea.form-control-lg {
   .pb-md-5 {
     padding-bottom: 3rem !important;
   }
+  .pb-md-9 {
+    margin-bottom: 4rem !important;
+  }
   .ps-md-0 {
     padding-left: 0 !important;
   }
